@@ -1,0 +1,15 @@
+
+ "name": "hit",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hitesh",
+  "license": "ISC",
+  "dependencies": {
+	"underscore": "1.5.2",
+	"mongodb": "~2.0.35"
+  }
+}
